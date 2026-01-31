@@ -1,0 +1,554 @@
+{
+  "download_date": "2026-01-30T14:02:36.826508",
+  "source": "PubMed Central Open Access",
+  "papers": [
+    {
+      "filename": "PMC9408902.xml",
+      "pmcid": "PMC9408902",
+      "title": "Electrospun Biomimetic Nanofibrous Scaffolds: A Promising Prospect for Bone Tissue Engineering and Regenerative Medicine",
+      "authors": [
+        "Shabnam Anjum",
+        "Farheen Rahman",
+        "Prashant Pandey",
+        "Dilip Kumar Arya",
+        "Mahmood Alam",
+        "Paruvathanahalli Siddalingam Rajinikanth",
+        "Qiang Ao"
+      ],
+      "doi": "10.3390/ijms23169206",
+      "journal": "International Journal of Molecular Sciences",
+      "pub_date": "2022-08-16",
+      "abstract": "Skeletal-related disorders such as arthritis, bone cancer, osteosarcoma, and osteoarthritis are among the most common reasons for mortality in humans at present. Nanostructured scaffolds have been discovered to be more efficient for bone regeneration than macro/micro-sized scaffolds because they sufficiently permit cell adhesion, proliferation, and chemical transformation. Nanofibrous scaffolds mimicking artificial extracellular matrices provide a natural environment for tissue regeneration owin..."
+    },
+    {
+      "filename": "PMC10071452.xml",
+      "pmcid": "PMC10071452",
+      "title": "Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR) in Cardiovascular Disease: A Comprehensive Clinical Review on Dilated Cardiomyopathy",
+      "authors": [
+        "Vijaya Durga Pradeep Ganipineni",
+        "Sai Dheeraj Gutlapalli",
+        "Sumanth Danda",
+        "Sameer Krishna Prasad Garlapati",
+        "Daniel Fabian",
+        "Ikpechukwu Okorie",
+        "Jananthan Paramsothy"
+      ],
+      "doi": "10.7759/cureus.35774",
+      "journal": "Cureus",
+      "pub_date": "2023-03-05",
+      "abstract": "Dilated cardiomyopathy (DCM) is one of the most important causes of heart failure in developed and developing countries. Currently, most medical interventions in the treatment of DCM are mainly focused on mitigating the progression of the disease and controlling the symptoms. The vast majority of patients who survive till the late stages of the disease require cardiac transplantation; this is exactly why we need novel therapeutic interventions and hopefully treatments that can reverse the clinic..."
+    },
+    {
+      "filename": "PMC11489562.xml",
+      "pmcid": "PMC11489562",
+      "title": "A systematic review of immunosuppressive protocols used in AAV gene therapy for monogenic disorders",
+      "authors": [
+        "Besarte Vrellaku",
+        "Ilda Sethw Hassan",
+        "Rebecca Howitt",
+        "Christopher P. Webster",
+        "Eli Harriss",
+        "Fraser McBlane",
+        "Corinne Betts",
+        "Jorge Schettini",
+        "Mattia Lion",
+        "John E. Mindur",
+        "Michael Duerr",
+        "Pamela J. Shaw",
+        "Janine Kirby",
+        "Mimoun Azzouz",
+        "Laurent Servais"
+      ],
+      "doi": "10.1016/j.ymthe.2024.07.016",
+      "journal": "Molecular Therapy",
+      "pub_date": "2024-07-22",
+      "abstract": "The emergence of adeno-associated virus (AAV)-based gene therapy has brought hope to patients with severe monogenic disorders. However, immune responses to AAV vectors and transgene products present challenges that require effective immunosuppressive strategies. This systematic review focuses on the immunosuppressive protocols used in 38 clinical trials and 35 real-world studies, considering a range of monogenic diseases, AAV serotypes, and administration routes. The review underscores the need ..."
+    },
+    {
+      "filename": "PMC8074255.xml",
+      "pmcid": "PMC8074255",
+      "title": "Gene Therapy for Lysosomal Storage Disorders: Ongoing Studies and Clinical Development",
+      "authors": [
+        "Giulia Massaro",
+        "Amy F. Geard",
+        "Wenfei Liu",
+        "Oliver Coombe-Tennant",
+        "Simon N. Waddington",
+        "Julien Baruteau",
+        "Paul Gissen",
+        "Ahad A. Rahim"
+      ],
+      "doi": "10.3390/biom11040611",
+      "journal": "Biomolecules",
+      "pub_date": "2021-04-20",
+      "abstract": "Rare monogenic disorders such as lysosomal diseases have been at the forefront in the development of novel treatments where therapeutic options are either limited or unavailable. The increasing number of successful pre-clinical and clinical studies in the last decade demonstrates that gene therapy represents a feasible option to address the unmet medical need of these patients. This article provides a comprehensive overview of the current state of the field, reviewing the most used viral gene de..."
+    },
+    {
+      "filename": "PMC3541057.xml",
+      "pmcid": "PMC3541057",
+      "title": "The development of biomedical engineering as experienced by one biomedical engineer",
+      "authors": [
+        "Jonathan C Newell"
+      ],
+      "doi": "10.1186/1475-925X-11-94",
+      "journal": "BioMedical Engineering OnLine",
+      "pub_date": "2012-12-12",
+      "abstract": "This personal essay described the development of the field of Biomedical Engineering from its early days, from the perspective of one who lived through that development. It describes the making of a major invention using data that had been rejected by other scientists, the re-discovery of an obscure fact of physiology and its use in developing a major medical instrument, the development of a new medical imaging modality, and the near-death rescue of a research project. The essay concludes with c..."
+    },
+    {
+      "filename": "PMC10766161.xml",
+      "pmcid": "PMC10766161",
+      "title": "A New Era of Clustered Regularly Interspaced Short Palindromic Repeats/CRISPR-associated Protein 9 Gene Editing Technology in Cardiovascular Diseases: Opportunities, Challenges, and Perspectives",
+      "authors": [
+        "Kumar Rahul",
+        "Sushil Kumar Singh",
+        "Sarvesh Kumar",
+        "Vivek Tewarson",
+        "Mohammad Zeeshan Hakim",
+        "Karan Kaushik",
+        "Satish Kumar",
+        "Bhupendra Kumar"
+      ],
+      "doi": "10.4103/heartviews.heartviews_49_23",
+      "journal": "Heart Views : The Official Journal of the Gulf Heart Association",
+      "pub_date": "2023-11-03",
+      "abstract": "Cardiovascular diseases (CVDs) remain major causes of global mortality in the world. Genetic approaches have succeeded in the discovery of the molecular basis of an increasing number of cardiac diseases. Genome-editing strategies are one of the most effective methods for assisting therapeutic approaches. Potential therapeutic methods of correcting disease-causing mutations or of knocking out specific genes as approaches for the prevention of CVDs have gained substantial attention using genome-ed..."
+    },
+    {
+      "filename": "PMC11939850.xml",
+      "pmcid": "PMC11939850",
+      "title": "Recent Advances in Clustered Regularly Interspaced Short Palindromic Repeats/CRISPR-Associated Proteins System-Based Biosensors",
+      "authors": [
+        "Xianglin Xin",
+        "Jing Su",
+        "Haoran Cui",
+        "Lihua Wang",
+        "Shiping Song"
+      ],
+      "doi": "10.3390/bios15030155",
+      "journal": "Biosensors",
+      "pub_date": "2025-03-02",
+      "abstract": "High-sensitivity and high-specificity biodetection is critical for advancing applications in life sciences, biosafety, food safety, and environmental monitoring. CRISPR/Cas systems have emerged as transformative tools in biosensing due to their unparalleled specificity, programmability, and unique enzymatic activities. They exhibit two key cleavage behaviors: precise ON-target cleavage guided by specific protospacers, which ensures accurate target recognition, and bystander cleavage activity tri..."
+    },
+    {
+      "filename": "PMC11640421.xml",
+      "pmcid": "PMC11640421",
+      "title": "Oligodendrocytes, the Forgotten Target of Gene Therapy",
+      "authors": [
+        "Yasemin Ozgür-Gunes",
+        "Catherine Le Stunff",
+        "Pierre Bougnères"
+      ],
+      "doi": "10.3390/cells13231973",
+      "journal": "Cells",
+      "pub_date": "2024-11-28",
+      "abstract": "If the billions of oligodendrocytes (OLs) populating the central nervous system (CNS) of patients could express their feelings, they would undoubtedly tell gene therapists about their frustration with the other neural cell populations, neurons, microglia, or astrocytes, which have been the favorite targets of gene transfer experiments. This review questions why OLs have been left out of most gene therapy attempts. The first explanation is that the pathogenic role of OLs is still discussed in mos..."
+    },
+    {
+      "filename": "PMC12162490.xml",
+      "pmcid": "PMC12162490",
+      "title": "Harnessing bacterial immunity: CRISPR-Cas system as a versatile tool in combating pathogens and revolutionizing medicine",
+      "authors": [
+        "Mushtak T. S. Al-Ouqaili",
+        "Amna Ahmad",
+        "Noor A. Jwair",
+        "Farah Al-Marzooq"
+      ],
+      "doi": "10.3389/fcimb.2025.1588446",
+      "journal": "Frontiers in Cellular and Infection Microbiology",
+      "pub_date": "2025-05-30",
+      "abstract": "Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR) technology has emerged as an adaptable instrument for several uses. The CRISPR–Cas system employs Cas proteins and programmable RNA molecules to guide the recognition and cleavage of specific DNA regions, permitting accurate genome editing. It is derived from the bacterial immune system and allows for accurate and efficient modification of DNA sequences. This technique provides unparalleled gene editing, control, and precise alte..."
+    },
+    {
+      "filename": "PMC8512780.xml",
+      "pmcid": "PMC8512780",
+      "title": "Recent Advances on Stimuli-Responsive Hydrogels Based on Tissue-Derived ECMs and Their Components: Towards Improving Functionality for Tissue Engineering and Controlled Drug Delivery",
+      "authors": [
+        "Julian A. Serna",
+        "Laura Rueda-Gensini",
+        "Daniela N. Céspedes-Valenzuela",
+        "Javier Cifuentes",
+        "Juan C. Cruz",
+        "Carolina Muñoz-Camargo"
+      ],
+      "doi": "10.3390/polym13193263",
+      "journal": "Polymers",
+      "pub_date": "2021-09-25",
+      "abstract": "Due to their highly hydrophilic nature and compositional versatility, hydrogels have assumed a protagonic role in the development of physiologically relevant tissues for several biomedical applications, such as in vivo tissue replacement or regeneration and in vitro disease modeling. By forming interconnected polymeric networks, hydrogels can be loaded with therapeutic agents, small molecules, or cells to deliver them locally to specific tissues or act as scaffolds for hosting cellular developme..."
+    },
+    {
+      "filename": "PMC8129133.xml",
+      "pmcid": "PMC8129133",
+      "title": "Polymer-free corticosteroid dimer implants for controlled and sustained drug delivery",
+      "authors": [
+        "Kyle Battiston",
+        "Ian Parrag",
+        "Matthew Statham",
+        "Dimitra Louka",
+        "Hans Fischer",
+        "Gillian Mackey",
+        "Adam Daley",
+        "Fan Gu",
+        "Emily Baldwin",
+        "Bingqing Yang",
+        "Ben Muirhead",
+        "Emily Anne Hicks",
+        "Heather Sheardown",
+        "Leonid Kalachev",
+        "Christopher Crean",
+        "Jeffrey Edelman",
+        "J. Paul Santerre",
+        "Wendy Naimark"
+      ],
+      "doi": "10.1038/s41467-021-23232-7",
+      "journal": "Nature Communications",
+      "pub_date": "2021-05-17",
+      "abstract": "Polymeric drug carriers are widely used for providing temporal and/or spatial control of drug delivery, with corticosteroids being one class of drugs that have benefitted from their use for the treatment of inflammatory-mediated conditions. However, these polymer-based systems often have limited drug-loading capacity, suboptimal release kinetics, and/or promote adverse inflammatory responses. This manuscript investigates and describes a strategy for achieving controlled delivery of corticosteroi..."
+    },
+    {
+      "filename": "PMC6662516.xml",
+      "pmcid": "PMC6662516",
+      "title": "Graphene-based 3D scaffolds in tissue engineering: fabrication, applications, and future scope in liver tissue engineering",
+      "authors": [
+        "Renu Geetha Bai",
+        "Kasturi Muthoosamy",
+        "Sivakumar Manickam",
+        "Ali Hilal-Alnaqbi"
+      ],
+      "doi": "10.2147/IJN.S192779",
+      "journal": "International Journal of Nanomedicine",
+      "pub_date": "2019-07-24",
+      "abstract": "Tissue engineering embraces the potential of recreating and replacing defective body parts by advancements in the medical field. Being a biocompatible nanomaterial with outstanding physical, chemical, optical, and biological properties, graphene-based materials were successfully employed in creating the perfect scaffold for a range of organs, starting from the skin through to the brain. Investigations on 2D and 3D tissue culture scaffolds incorporated with graphene or its derivatives have reveal..."
+    },
+    {
+      "filename": "PMC12755203.xml",
+      "pmcid": "PMC12755203",
+      "title": "Structural Engineering\nof Layered Nanomaterials for\nBiomedical Applications",
+      "authors": [
+        "Tingting Hu",
+        "Yu Yang",
+        "Tao Wang",
+        "Min Ge",
+        "Chaojie Yu",
+        "Jiajia Zha",
+        "Xiangrong Pan",
+        "Zhan Zhou",
+        "Lufang Ma",
+        "Ruizheng Liang",
+        "Chaoliang Tan"
+      ],
+      "doi": "10.1021/acs.chemrev.5c00193",
+      "journal": "Chemical Reviews",
+      "pub_date": "2025-07-28",
+      "abstract": "Layered nanomaterials have been recognized as promising\nnanomaterials\nfor biomedical applications due to their tunable crystal phase, easy\nexfoliation, capability as the host to be intercalated with guest\nspecies, and layer-dependent electronic/optoelectronic properties.\nRecent advances in structural engineering strategies enable manipulating\nlayered nanomaterials at the atomic level, activating and/or optimizing\ntheir properties, and overcoming existing limitations for unlocking\nunprecedented p..."
+    },
+    {
+      "filename": "PMC11224995.xml",
+      "pmcid": "PMC11224995",
+      "title": "Gene editing therapy for cardiovascular diseases",
+      "authors": [
+        "Xinyu Wu",
+        "Jie Yang",
+        "Jiayao Zhang",
+        "Yuning Song"
+      ],
+      "doi": "10.1002/mco2.639",
+      "journal": "MedComm",
+      "pub_date": "2024-07-05",
+      "abstract": "The development of gene editing tools has been a significant area of research in the life sciences for nearly 30 years. These tools have been widely utilized in disease detection and mechanism research. In the new century, they have shown potential in addressing various scientific challenges and saving lives through gene editing therapies, particularly in combating cardiovascular disease (CVD). The rapid advancement of gene editing therapies has provided optimism for CVD patients. The progress o..."
+    },
+    {
+      "filename": "PMC7418007.xml",
+      "pmcid": "PMC7418007",
+      "title": "Understanding the Acceptability of Subdermal Implants as a Possible New HIV Prevention Method: Multi-Stage Mixed Methods Study",
+      "authors": [
+        "Christine Tagliaferri Rael",
+        "Cody Lentz",
+        "Alex Carballo-Diéguez",
+        "Rebecca Giguere",
+        "Curtis Dolezal",
+        "Daniel Feller",
+        "Richard T D'Aquila",
+        "Thomas J Hope"
+      ],
+      "doi": "10.2196/16904",
+      "journal": "Journal of Medical Internet Research",
+      "pub_date": "2020-07-27",
+      "abstract": "A long-acting implant for HIV pre-exposure prophylaxis (PrEP) is in development in the Sustained Long-Action Prevention Against HIV (SLAP-HIV) trial. This could provide an alternative to oral PrEP. Our mixed methods study aimed to understand (1) users’ experiences with a similar subdermal implant for contraception and (2) factors influencing the likelihood that gay and bisexual men (GBM) would use a proposed PrEP implant. Work was completed in 4 stages. In stage 1, we conducted a scientific lite..."
+    },
+    {
+      "filename": "PMC9463390.xml",
+      "pmcid": "PMC9463390",
+      "title": "Scaffolds in the microbial resistant era: Fabrication, materials, properties and tissue engineering applications",
+      "authors": [
+        "Ángel Serrano-Aroca",
+        "Alba Cano-Vicent",
+        "Roser Sabater i Serra",
+        "Mohamed El-Tanani",
+        "AlaaAA. Aljabali",
+        "Murtaza M. Tambuwala",
+        "Yogendra Kumar Mishra"
+      ],
+      "doi": "10.1016/j.mtbio.2022.100412",
+      "journal": "Materials Today Bio",
+      "pub_date": "2022-08-30",
+      "abstract": "Due to microbial infections dramatically affect cell survival and increase the risk of implant failure, scaffolds produced with antimicrobial materials are now much more likely to be successful. Multidrug-resistant infections without suitable prevention strategies are increasing at an alarming rate. The ability of cells to organize, develop, differentiate, produce a functioning extracellular matrix (ECM) and create new functional tissue can all be controlled by careful control of the extracellul..."
+    },
+    {
+      "filename": "PMC10354806.xml",
+      "pmcid": "PMC10354806",
+      "title": "The Diamond Concept\nEnigma: Recent Trends of Its Implementation\nin Cross-linked Chitosan-Based Scaffolds for Bone Tissue Engineering",
+      "authors": [
+        "Celine\nJ. Agnes",
+        "Antoine Karoichan",
+        "Maryam Tabrizian"
+      ],
+      "doi": "10.1021/acsabm.3c00108",
+      "journal": "ACS Applied Bio Materials",
+      "pub_date": "2023-06-13",
+      "abstract": " An increasing number of publications over the past ten\nyears have\nfocused on the development of chitosan-based cross-linked scaffolds\nto regenerate bone tissue. The design of biomaterials for bone tissue\nengineering applications relies heavily on the ideals set forth by\na polytherapy approach called the “Diamond Concept”.\nThis methodology takes into consideration the mechanical environment,\nscaffold properties, osteogenic and angiogenic potential of cells,\nand benefits of osteoinductive mediato..."
+    },
+    {
+      "filename": "PMC9868144.xml",
+      "pmcid": "PMC9868144",
+      "title": "Challenges and perspectives of multi-virus biosensing techniques: A review",
+      "authors": [
+        "Yuqiao Zheng",
+        "Xixi Song",
+        "Zina Fredj",
+        "Sumin Bian",
+        "Mohamad Sawan"
+      ],
+      "doi": "10.1016/j.aca.2023.340860",
+      "journal": "Analytica Chimica Acta",
+      "pub_date": "2023-01-23",
+      "abstract": "In the context of globalization, individuals have an increased chance of being infected by multiple viruses simultaneously, thereby highlighting the importance of developing multiplexed devices. In addition to sufficient sensitivity and rapid response, multi-virus sensing techniques are expected to offer additional advantages including high throughput, one-time sampling for parallel analysis, and full automation with data visualization. In this paper, we review the optical, electrochemical, and ..."
+    },
+    {
+      "filename": "PMC7038301.xml",
+      "pmcid": "PMC7038301",
+      "title": "A Subcutaneous Implant of Tenofovir Alafenamide Fumarate Causes Local Inflammation and Tissue Necrosis in Rabbits and Macaques",
+      "authors": [
+        "Jonathan T. Su",
+        "Solange M. Simpson",
+        "Samuel Sung",
+        "Ewa Bryndza Tfaily",
+        "Ronald Veazey",
+        "Mark Marzinke",
+        "Jiang Qiu",
+        "David Watrous",
+        "Lakmini Widanapathirana",
+        "Elizabeth Pearson",
+        "M. Melissa Peet",
+        "Dipu Karunakaran",
+        "Brooke Grasperge",
+        "Georgina Dobek",
+        "Charlette M. Cain",
+        "Thomas Hope",
+        "Patrick F. Kiser"
+      ],
+      "doi": "10.1128/AAC.01893-19",
+      "journal": "Antimicrobial Agents and Chemotherapy",
+      "pub_date": "2020-02-21",
+      "abstract": "We describe the in vitro and in vivo evaluation of a subcutaneous reservoir implant delivering tenofovir alafenamide hemifumarate (TAF) for the prevention of HIV infection. These long-acting reservoir implants were able to deliver antiretroviral drug for over 90 days in vitro and in vivo. We evaluated the implants for implantation site histopathology and pharmacokinetics in plasma and tissues for up to 12 weeks in New Zealand White rabbit and rhesus macaque models."
+    },
+    {
+      "filename": "PMC7326509.xml",
+      "pmcid": "PMC7326509",
+      "title": "What Goes In Must Come Out: A Mixed-Method Study of Access to Contraceptive Implant Removal Services in Ghana",
+      "authors": [
+        "Rebecca Callahan",
+        "Elena Lebetkin",
+        "Claire Brennan",
+        "Emmanuel Kuffour",
+        "Angela Boateng",
+        "Samuel Tagoe",
+        "Anne Coolen",
+        "Mario Chen",
+        "Patrick Aboagye",
+        "Aurélie Brunie"
+      ],
+      "doi": "10.9745/GHSP-D-20-00013",
+      "journal": "Global Health: Science and Practice",
+      "pub_date": "2020-06-30",
+      "abstract": "Many Ghanaian women seeking implant removal are able to obtain services, but knowledge and access gaps exist."
+    },
+    {
+      "filename": "PMC5544997.xml",
+      "pmcid": "PMC5544997",
+      "title": "Improvement of medical content in the curriculum of biomedical engineering based on assessment of students outcomes",
+      "authors": [
+        "Enas Abdulhay",
+        "Ruba Khnouf",
+        "Shireen Haddad",
+        "Areen Al-Bashir"
+      ],
+      "doi": "10.1186/s12909-017-0968-2",
+      "journal": "BMC Medical Education",
+      "pub_date": "2017-08-04",
+      "abstract": "Improvement of medical content in Biomedical Engineering curricula based on a qualitative assessment process or on a comparison with another high-standard program has been approached by a number of studies. However, the quantitative assessment tools have not been emphasized. The quantitative assessment tools can be more accurate and robust in cases of challenging multidisciplinary fields like that of Biomedical Engineering which includes biomedicine elements mixed with technology aspects. The ma..."
+    },
+    {
+      "filename": "PMC9842069.xml",
+      "pmcid": "PMC9842069",
+      "title": "Electrically conductive carbon‐based (bio)‐nanomaterials for cardiac tissue engineering",
+      "authors": [
+        "Negin Jalilinejad",
+        "Mohammad Rabiee",
+        "Nafiseh Baheiraei",
+        "Ramin Ghahremanzadeh",
+        "Reza Salarian",
+        "Navid Rabiee",
+        "Omid Akhavan",
+        "Payam Zarrintaj",
+        "Aleksander Hejna",
+        "Mohammad Reza Saeb",
+        "Ali Zarrabi",
+        "Esmaeel Sharifi",
+        "Satar Yousefiasl",
+        "Ehsan Nazarzadeh Zare"
+      ],
+      "doi": "10.1002/btm2.10347",
+      "journal": "Bioengineering & Translational Medicine",
+      "pub_date": "2022-06-21",
+      "abstract": "A proper self‐regenerating capability is lacking in human cardiac tissue which along with the alarming rate of deaths associated with cardiovascular disorders makes tissue engineering critical. Novel approaches are now being investigated in order to speedily overcome the challenges in this path. Tissue engineering has been revolutionized by the advent of nanomaterials, and later by the application of carbon‐based nanomaterials because of their exceptional variable functionality, conductivity, an..."
+    },
+    {
+      "filename": "PMC10946997.xml",
+      "pmcid": "PMC10946997",
+      "title": "Gene Therapy for Dopamine Dyshomeostasis: From Parkinson's to Primary Neurotransmitter Diseases",
+      "authors": [
+        "Joanne Ng",
+        "Serena Barral",
+        "Simon N. Waddington",
+        "Manju A. Kurian"
+      ],
+      "doi": "10.1002/mds.29416",
+      "journal": "Movement Disorders",
+      "pub_date": "2023-05-05",
+      "abstract": "Neurological disorders encompass a broad range of neurodegenerative and neurodevelopmental diseases that are complex and almost universally without disease modifying treatments. There is, therefore, significant unmet clinical need to develop novel therapeutic strategies for these patients. Viral gene therapies are a promising approach, where gene delivery is achieved through viral vectors such as adeno‐associated virus and lentivirus. The clinical efficacy of such gene therapies has already been..."
+    },
+    {
+      "filename": "PMC11108624.xml",
+      "pmcid": "PMC11108624",
+      "title": "Gene therapy for neurotransmitter‐related disorders",
+      "authors": [
+        "Wing Sum Chu",
+        "Joanne Ng",
+        "Simon N. Waddington",
+        "Manju A. Kurian"
+      ],
+      "doi": "10.1002/jimd.12697",
+      "journal": "Journal of Inherited Metabolic Disease",
+      "pub_date": "2024-01-14",
+      "abstract": "Inborn errors of neurotransmitter (NT) metabolism are a group of rare, heterogenous diseases with predominant neurological features, such as movement disorders, autonomic dysfunction, and developmental delay. Clinical overlap with other disorders has led to delayed diagnosis and treatment, and some conditions are refractory to oral pharmacotherapies. Gene therapies have been developed and translated to clinics for paediatric inborn errors of metabolism, with 38 interventional clinical trials ong..."
+    },
+    {
+      "filename": "PMC7436128.xml",
+      "pmcid": "PMC7436128",
+      "title": "Nanobioconjugates for Signal Amplification in Electrochemical Biosensing",
+      "authors": [
+        "Sebastian Cajigas",
+        "Jahir Orozco"
+      ],
+      "doi": "10.3390/molecules25153542",
+      "journal": "Molecules",
+      "pub_date": "2020-08-03",
+      "abstract": "Nanobioconjugates are hybrid materials that result from the coalescence of biomolecules and nanomaterials. They have emerged as a strategy to amplify the signal response in the biosensor field with the potential to enhance the sensitivity and detection limits of analytical assays. This critical review collects a myriad of strategies for the development of nanobioconjugates based on the conjugation of proteins, antibodies, carbohydrates, and DNA/RNA with noble metals, quantum dots, carbon- and ma..."
+    },
+    {
+      "filename": "PMC12166701.xml",
+      "pmcid": "PMC12166701",
+      "title": "Neuromorphic chips for biomedical engineering☆",
+      "authors": [
+        "Kaiyang Wang",
+        "Shuhui Ren",
+        "Yunfang Jia",
+        "Xiaobing Yan",
+        "Lizhen Wang",
+        "Yubo Fan"
+      ],
+      "doi": "10.1016/j.mbm.2025.100133",
+      "journal": "Mechanobiology in Medicine",
+      "pub_date": "2025-05-15",
+      "abstract": "The modern medical field faces two critical challenges: the dramatic increase in data complexity and the explosive growth in data size. Especially in current research, medical diagnostic, and data processing devices relying on traditional computer architecture are increasingly showing limitations when faced with dynamic temporal and spatial processing requirements, as well as high-dimensional data processing tasks. Neuromorphic devices provide a new way for biomedical data processing due to thei..."
+    },
+    {
+      "filename": "PMC12839059.xml",
+      "pmcid": "PMC12839059",
+      "title": "Engineered Protein Modification: A New Paradigm for Enhancing Biosensing Sensitivity and Diagnostic Accuracy",
+      "authors": [
+        "Zheng Xu",
+        "Chu Wang",
+        "Ziting Zhang",
+        "Heng Wang",
+        "Peiyi Gao",
+        "Lixing Weng"
+      ],
+      "doi": "10.3390/bios16010021",
+      "journal": "Biosensors",
+      "pub_date": "2025-12-26",
+      "abstract": "Protein modifications, particularly post-translational modifications (PTMs) such as phosphorylation and glycosylation, are fundamental mechanisms regulating cellular activity and disease pathogenesis, with their detection emerging as a promising frontier for advanced diagnostics. This review systematically examines the integration of engineered protein modifications with biosensing technologies to enhance analytical performance and diagnostic accuracy. Through critical analysis of current method..."
+    },
+    {
+      "filename": "PMC4435123.xml",
+      "pmcid": "PMC4435123",
+      "title": "The Application of Biomedical Engineering Techniques to the Diagnosis and Management of Tropical Diseases: A Review",
+      "authors": [
+        "Fatimah Ibrahim",
+        "Tzer Hwai Gilbert Thio",
+        "Tarig Faisal",
+        "Michael Neuman"
+      ],
+      "doi": "10.3390/s150306947",
+      "journal": "Sensors (Basel, Switzerland)",
+      "pub_date": "2015-03-23",
+      "abstract": "This paper reviews a number of biomedical engineering approaches to help aid in the detection and treatment of tropical diseases such as dengue, malaria, cholera, schistosomiasis, lymphatic filariasis, ebola, leprosy, leishmaniasis, and American trypanosomiasis (Chagas). Many different forms of non-invasive approaches such as ultrasound, echocardiography and electrocardiography, bioelectrical impedance, optical detection, simplified and rapid serological tests such as lab-on-chip and micro-/nano..."
+    },
+    {
+      "filename": "PMC7854298.xml",
+      "pmcid": "PMC7854298",
+      "title": "Current Clinical Applications of In Vivo Gene Therapy with AAVs",
+      "authors": [
+        "Jerry R. Mendell",
+        "Samiah A. Al-Zaidy",
+        "Louise R. Rodino-Klapac",
+        "Kimberly Goodspeed",
+        "Steven J. Gray",
+        "Christine N. Kay",
+        "Sanford L. Boye",
+        "Shannon E. Boye",
+        "Lindsey A. George",
+        "Stephanie Salabarria",
+        "Manuela Corti",
+        "Barry J. Byrne",
+        "Jacques P. Tremblay"
+      ],
+      "doi": "10.1016/j.ymthe.2020.12.007",
+      "journal": "Molecular Therapy",
+      "pub_date": "2020-12-10",
+      "abstract": "Hereditary diseases are caused by mutations in genes, and more than 7,000 rare diseases affect over 30 million Americans. For more than 30 years, hundreds of researchers have maintained that genetic modifications would provide effective treatments for many inherited human diseases, offering durable and possibly curative clinical benefit with a single treatment. This review is limited to gene therapy using adeno-associated virus (AAV) because the gene delivered by this vector does not integrate i..."
+    },
+    {
+      "filename": "PMC9841506.xml",
+      "pmcid": "PMC9841506",
+      "title": "CRISPR/Cas9 therapeutics: progress and prospects",
+      "authors": [
+        "Tianxiang Li",
+        "Yanyan Yang",
+        "Hongzhao Qi",
+        "Weigang Cui",
+        "Lin Zhang",
+        "Xiuxiu Fu",
+        "Xiangqin He",
+        "Meixin Liu",
+        "Pei-feng Li",
+        "Tao Yu"
+      ],
+      "doi": "10.1038/s41392-023-01309-7",
+      "journal": "Signal Transduction and Targeted Therapy",
+      "pub_date": "2023-01-16",
+      "abstract": "Clustered regularly interspaced short palindromic repeats (CRISPR)/CRISPR-associated protein 9 (Cas9) gene-editing technology is the ideal tool of the future for treating diseases by permanently correcting deleterious base mutations or disrupting disease-causing genes with great precision and efficiency. A variety of efficient Cas9 variants and derivatives have been developed to cope with the complex genomic changes that occur during diseases. However, strategies to effectively deliver the CRISP..."
+    }
+  ]
+}

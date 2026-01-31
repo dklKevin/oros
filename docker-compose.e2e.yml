@@ -1,0 +1,62 @@
+# =============================================================================
+# Docker Compose for E2E Testing
+# =============================================================================
+# Minimal setup with PostgreSQL + pgvector for running E2E API tests
+# Usage: docker-compose -f docker-compose.e2e.yml up -d
+
+version: '3.9'
+
+services:
+  # ===========================================================================
+  # PostgreSQL with pgvector extension (E2E Test Database)
+  # ===========================================================================
+  postgres-e2e:
+    image: pgvector/pgvector:pg15
+    container_name: biomedical-postgres-e2e
+    environment:
+      POSTGRES_USER: biomedical
+      POSTGRES_PASSWORD: test_password
+      POSTGRES_DB: knowledge_platform_e2e
+    ports:
+      - "5433:5432"  # Different port to avoid conflicts with dev DB
+    volumes:
+      - ./scripts/init-db.sql:/docker-entrypoint-initdb.d/01-init.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U biomedical -d knowledge_platform_e2e"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+      start_period: 10s
+    networks:
+      - e2e-network
+    # Don't persist data - fresh DB for each test run
+    tmpfs:
+      - /var/lib/postgresql/data
+
+  # ===========================================================================
+  # LocalStack for S3 (E2E)
+  # ===========================================================================
+  localstack-e2e:
+    image: localstack/localstack:3.0
+    container_name: biomedical-localstack-e2e
+    environment:
+      SERVICES: s3
+      DEFAULT_REGION: us-east-1
+      EAGER_SERVICE_LOADING: 1
+      DEBUG: 0
+    ports:
+      - "4567:4566"  # Different port to avoid conflicts
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:4566/_localstack/health"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+      start_period: 10s
+    networks:
+      - e2e-network
+    tmpfs:
+      - /var/lib/localstack
+
+networks:
+  e2e-network:
+    driver: bridge
