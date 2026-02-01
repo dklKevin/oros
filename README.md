@@ -1,4 +1,4 @@
-# Biomedical Knowledge Platform
+# Oros
 
 A production-ready platform for ingesting, processing, and querying biomedical scientific literature using semantic search and RAG (Retrieval-Augmented Generation).
 
@@ -13,7 +13,7 @@ This platform enables researchers and healthcare professionals to:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│                     Biomedical Knowledge Platform                   │
+│                              Oros                                   │
 ├─────────────────────────────────────────────────────────────────────┤
 │                                                                     │
 │  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐             │
@@ -47,7 +47,7 @@ This platform enables researchers and healthcare professionals to:
 ```bash
 # Clone and setup
 git clone <repository-url>
-cd biomedical-knowledge-platform
+cd oros
 
 # Install development dependencies
 make setup-dev

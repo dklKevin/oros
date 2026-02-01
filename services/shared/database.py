@@ -1,5 +1,5 @@
 """
-Database connection and session management for Biomedical Knowledge Platform.
+Database connection and session management for Oros.
 
 Uses SQLAlchemy 2.0 async patterns with connection pooling.
 """

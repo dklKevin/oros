@@ -1,7 +1,7 @@
 [project]
-name = "biomedical-knowledge-platform"
+name = "oros"
 version = "1.0.0"
-description = "Production-ready biomedical knowledge platform with semantic search and RAG"
+description = "Oros - Production-ready biomedical knowledge platform with semantic search and RAG"
 readme = "README.md"
 requires-python = ">=3.11"
 license = {text = "MIT"}
@@ -19,9 +19,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/biomedical-knowledge-platform"
-Documentation = "https://github.com/yourusername/biomedical-knowledge-platform#readme"
-Repository = "https://github.com/yourusername/biomedical-knowledge-platform"
+Homepage = "https://github.com/dklKevin/oros"
+Documentation = "https://github.com/dklKevin/oros#readme"
+Repository = "https://github.com/dklKevin/oros"
 
 [build-system]
 requires = ["setuptools>=68.0", "wheel"]

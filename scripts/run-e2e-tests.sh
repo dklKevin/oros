@@ -94,7 +94,7 @@ trap cleanup EXIT
 # Main script
 echo ""
 echo "=============================================="
-echo "   Biomedical Knowledge Platform - E2E Tests  "
+echo "            Oros - E2E Tests                   "
 echo "=============================================="
 echo ""
 

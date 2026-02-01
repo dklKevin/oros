@@ -1,5 +1,5 @@
 # =============================================================================
-# Biomedical Knowledge Platform - Production Dependencies
+# Oros - Production Dependencies
 # =============================================================================
 
 # Web Framework

@@ -46,7 +46,7 @@ async def lifespan(app: FastAPI):
 
 
 app = FastAPI(
-    title="Biomedical Knowledge Platform - Ingestion Service",
+    title="Oros - Ingestion Service",
     description="Document ingestion, parsing, and embedding generation",
     version="1.0.0",
     lifespan=lifespan,

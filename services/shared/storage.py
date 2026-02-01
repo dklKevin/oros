@@ -1,5 +1,5 @@
 """
-S3 storage client for Biomedical Knowledge Platform.
+S3 storage client for Oros.
 
 Handles document storage and retrieval from S3 with LocalStack support.
 """

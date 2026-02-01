@@ -3,7 +3,7 @@
 
 # Default target
 help:
-	@echo "Biomedical Knowledge Platform - Development Commands"
+	@echo "Oros - Development Commands"
 	@echo ""
 	@echo "Setup:"
 	@echo "  setup          - Install production dependencies"

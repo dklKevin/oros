@@ -250,7 +250,7 @@ async def test_database_query():
 async def main():
     """Run all tests."""
     logger.info("=" * 60)
-    logger.info("Biomedical Knowledge Platform - Ingestion Pipeline Tests")
+    logger.info("Oros - Ingestion Pipeline Tests")
     logger.info("=" * 60)
 
     # Test 1: Parser

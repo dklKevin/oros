@@ -1,5 +1,5 @@
 """
-Configuration management for Biomedical Knowledge Platform.
+Configuration management for Oros.
 
 Uses pydantic-settings for environment variable loading with validation.
 """
@@ -96,7 +96,7 @@ class Settings(BaseSettings):
     api_host: str = "0.0.0.0"
     api_port: int = 8000
     api_workers: int = 1
-    api_title: str = "Biomedical Knowledge Platform"
+    api_title: str = "Oros"
     api_version: str = "1.0.0"
 
     # =========================================================================

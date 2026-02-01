@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Production-ready biomedical knowledge platform that ingests scientific literature (PubMed XML, PDFs), processes it for semantic search, and provides RAG-powered retrieval through a well-architected API system.
+Oros is a production-ready biomedical knowledge platform that ingests scientific literature (PubMed XML, PDFs), processes it for semantic search, and provides RAG-powered retrieval through a well-architected API system.
 
 ## Build and Run Commands
 
@@ -37,7 +37,7 @@ make deploy-dev         # Deploy to dev environment
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│                     Biomedical Knowledge Platform                   │
+│                              Oros                                   │
 ├─────────────────────────────────────────────────────────────────────┤
 │                                                                     │
 │  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐             │

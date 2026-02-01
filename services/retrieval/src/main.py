@@ -43,7 +43,7 @@ async def lifespan(app: FastAPI):
 
 
 app = FastAPI(
-    title="Biomedical Knowledge Platform - Retrieval Service",
+    title="Oros - Retrieval Service",
     description="Semantic search and RAG-powered chat for biomedical literature",
     version="1.0.0",
     lifespan=lifespan,

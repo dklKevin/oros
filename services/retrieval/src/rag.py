@@ -1,5 +1,5 @@
 """
-RAG (Retrieval-Augmented Generation) service for Biomedical Knowledge Platform.
+RAG (Retrieval-Augmented Generation) service for Oros.
 
 Implements context retrieval and answer generation using AWS Bedrock Claude.
 """

@@ -1,5 +1,5 @@
 """
-Structured logging configuration for Biomedical Knowledge Platform.
+Structured logging configuration for Oros.
 
 Uses structlog for structured logging with JSON output in production
 and readable colored output in development.

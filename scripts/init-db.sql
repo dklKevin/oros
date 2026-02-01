@@ -1,5 +1,5 @@
 -- =============================================================================
--- Biomedical Knowledge Platform - Database Initialization
+-- Oros - Database Initialization
 -- =============================================================================
 -- This script runs when PostgreSQL container starts for the first time
 

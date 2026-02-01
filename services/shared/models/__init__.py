@@ -1,5 +1,5 @@
 """
-SQLAlchemy ORM models for Biomedical Knowledge Platform.
+SQLAlchemy ORM models for Oros.
 """
 
 from services.shared.models.document import (

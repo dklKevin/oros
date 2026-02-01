@@ -1,5 +1,5 @@
 # =============================================================================
-# Biomedical Knowledge Platform - Development Dependencies
+# Oros - Development Dependencies
 # =============================================================================
 
 -r requirements.txt

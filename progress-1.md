@@ -1,4 +1,4 @@
-# Progress Report 1: Biomedical Knowledge Platform
+# Progress Report 1: Oros
 
 **Date:** January 30, 2026
 **Status:** Core Implementation Complete
@@ -7,7 +7,7 @@
 
 ## Executive Summary
 
-This report documents the implementation progress of the Biomedical Knowledge Platform, a production-ready system for ingesting scientific literature, processing it for semantic search, and providing RAG-powered retrieval through well-architected APIs.
+This report documents the implementation progress of Oros, a production-ready biomedical knowledge platform for ingesting scientific literature, processing it for semantic search, and providing RAG-powered retrieval through well-architected APIs.
 
 **Key Achievements:**
 - ✅ Fully functional Ingestion Service API
@@ -24,7 +24,7 @@ This report documents the implementation progress of the Biomedical Knowledge Pl
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│                     Biomedical Knowledge Platform                   │
+│                              Oros                                   │
 ├─────────────────────────────────────────────────────────────────────┤
 │                                                                     │
 │  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐             │
@@ -455,7 +455,7 @@ pyproject.toml                           # Added e2e marker, updated testpaths
 
 ## Conclusion
 
-The Biomedical Knowledge Platform has reached a functional state with:
+Oros has reached a functional state with:
 
 - **Complete API surfaces** for both ingestion and retrieval services
 - **Hybrid search** combining vector and keyword approaches

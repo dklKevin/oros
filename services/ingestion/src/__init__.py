@@ -1,5 +1,5 @@
 """
-Ingestion Service for Biomedical Knowledge Platform.
+Ingestion Service for Oros.
 
 Handles document parsing, chunking, embedding generation, and storage.
 """

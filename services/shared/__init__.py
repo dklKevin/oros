@@ -1,5 +1,5 @@
 """
-Shared utilities for Biomedical Knowledge Platform services.
+Shared utilities for Oros services.
 """
 
 from services.shared.config import Settings, get_settings

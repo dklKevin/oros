@@ -1,5 +1,5 @@
 """
-Search service for Biomedical Knowledge Platform.
+Search service for Oros.
 
 Implements vector, keyword, and hybrid search functionality.
 """
