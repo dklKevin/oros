@@ -16,7 +16,7 @@ from sqlalchemy.ext.asyncio import (
     create_async_engine,
 )
 from sqlalchemy.orm import DeclarativeBase
-from sqlalchemy.pool import QueuePool
+from sqlalchemy.pool import AsyncAdaptedQueuePool
 
 from services.shared.config import Settings, get_settings
 from services.shared.logging import get_logger
@@ -53,7 +53,7 @@ def get_engine(settings: Settings | None = None) -> AsyncEngine:
 
         _engine = create_async_engine(
             settings.async_database_url,
-            poolclass=QueuePool,
+            poolclass=AsyncAdaptedQueuePool,
             pool_size=settings.database_pool_size,
             max_overflow=settings.database_max_overflow,
             pool_timeout=settings.database_pool_timeout,

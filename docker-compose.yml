@@ -110,6 +110,7 @@ services:
     volumes:
       - ./services/retrieval:/app/services/retrieval:ro
       - ./services/shared:/app/services/shared:ro
+      - ./services/ingestion:/app/services/ingestion:ro
     networks:
       - biomedical-network
     restart: unless-stopped

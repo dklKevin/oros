@@ -37,6 +37,7 @@ RUN pip install --no-cache-dir /wheels/* && rm -rf /wheels
 # Copy application code
 COPY services/shared /app/services/shared
 COPY services/retrieval /app/services/retrieval
+COPY services/ingestion /app/services/ingestion
 
 # Set ownership
 RUN chown -R appuser:appuser /app
