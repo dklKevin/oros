@@ -116,6 +116,26 @@ services:
     restart: unless-stopped
 
   # ===========================================================================
+  # Chat UI (Next.js Frontend)
+  # ===========================================================================
+  chat-ui:
+    build:
+      context: ./consumers/chat-ui
+      dockerfile: Dockerfile
+    container_name: biomedical-chat-ui
+    environment:
+      NEXT_PUBLIC_RETRIEVAL_URL: http://retrieval:8000
+      NEXT_PUBLIC_INGESTION_URL: http://ingestion:8000
+    ports:
+      - "3000:3000"
+    depends_on:
+      - retrieval
+      - ingestion
+    networks:
+      - biomedical-network
+    restart: unless-stopped
+
+  # ===========================================================================
   # Redis for caching (optional, uncomment if needed)
   # ===========================================================================
   # redis:
