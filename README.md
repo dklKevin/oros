@@ -46,7 +46,7 @@ This platform enables researchers and healthcare professionals to:
 
 ```bash
 # Clone and setup
-git clone <repository-url>
+git clone https://github.com/dklKevin/oros.git
 cd oros
 
 # Install development dependencies
@@ -137,7 +137,6 @@ curl -X POST http://localhost:8000/chat \
 ├── infrastructure/
 │   └── terraform/        # Infrastructure as code
 ├── scripts/              # Utility scripts
-├── docs/                 # Documentation
 └── test-data/            # Sample papers for testing
 ```
 
@@ -164,12 +163,6 @@ make deploy-dev
 make tf-plan-dev
 ```
 
-## Documentation
-
-- [Architecture Design](docs/architecture/system-design.md)
-- [API Documentation](docs/api/openapi.yaml)
-- [Deployment Runbook](docs/runbooks/deployment.md)
-
 ## License
 
-[Add your license here]
+This project is licensed under the [MIT License](LICENSE).
